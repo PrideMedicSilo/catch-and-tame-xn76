@@ -1,4 +1,4 @@
-
+no-ban Script for catch and tame offers the most advanced catch and tame Script, with auto-heal and custom skins. Perfect for dominating any match.
 
 
 
